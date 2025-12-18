@@ -1,5 +1,5 @@
 
-````markdown
+
 # Market-aware Investment Opportunity Matching System  
 **Agentic GenAI + RAG + Scenario-based Evaluation**
 
@@ -55,7 +55,7 @@ Client Profile + Constraints
      Audit / Compliance Agent
             ↓
    Final Recommendations
-````
+
 
 ---
 

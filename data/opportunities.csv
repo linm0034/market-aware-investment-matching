@@ -1,0 +1,21 @@
+product_id,name,type,risk_level,lockup_days,fees,derivatives_exposure,esg
+opp_001,Short Duration Bond Fund,fund,2,7,0.006,false,true
+opp_002,Leveraged Equity Note,structured,5,180,0.012,true,false
+opp_003,Money Market Fund,fund,1,1,0.002,false,true
+opp_004,Investment Grade Corporate Bond Fund,fund,2,30,0.007,false,true
+opp_005,High Yield Bond Fund,fund,4,90,0.01,false,false
+opp_006,Global Dividend Equity Fund,fund,3,30,0.009,false,true
+opp_007,Tech Growth Equity Fund,fund,4,60,0.01,false,false
+opp_008,US Treasury Ladder (1-3Y),bond,1,7,0.003,false,true
+opp_009,Floating Rate Note Basket,bond,2,14,0.006,false,false
+opp_010,Capital Protected Note (80% protection),structured,3,365,0.011,true,false
+opp_011,ESG Global Balanced Fund,fund,3,30,0.008,false,true
+opp_012,Gold Defensive Allocation Fund,fund,3,14,0.009,false,true
+opp_013,EM Local Currency Bond Fund,fund,4,180,0.011,false,false
+opp_014,Private Credit Income Fund,alternative,4,730,0.014,false,false
+opp_015,REITs Income Fund,fund,3,60,0.01,false,true
+opp_016,Structured Range Accrual Note,structured,5,365,0.015,true,false
+opp_017,Short-Term SGD Fixed Deposit Promo,deposit,1,30,0.0,false,true
+opp_018,FX Hedged Global Bond Fund,fund,3,90,0.01,true,true
+opp_019,Low Volatility Equity Fund,fund,2,30,0.008,false,true
+opp_020,Thematic AI Innovation Equity Fund,fund,4,90,0.011,false,false

@@ -1,0 +1,162 @@
+[
+  {
+    "client_id": "c001",
+    "risk_tolerance": 1,
+    "horizon_months": 6,
+    "goal": "Preservation",
+    "liquidity_need": "High",
+    "constraints": ["ESG-only", "No-derivatives"]
+  },
+  {
+    "client_id": "c002",
+    "risk_tolerance": 2,
+    "horizon_months": 12,
+    "goal": "Income",
+    "liquidity_need": "High",
+    "constraints": ["No-derivatives"]
+  },
+  {
+    "client_id": "c003",
+    "risk_tolerance": 2,
+    "horizon_months": 24,
+    "goal": "Income",
+    "liquidity_need": "Med",
+    "constraints": ["ESG-only"]
+  },
+  {
+    "client_id": "c004",
+    "risk_tolerance": 3,
+    "horizon_months": 36,
+    "goal": "Growth",
+    "liquidity_need": "Med",
+    "constraints": []
+  },
+  {
+    "client_id": "c005",
+    "risk_tolerance": 3,
+    "horizon_months": 18,
+    "goal": "Income",
+    "liquidity_need": "Med",
+    "constraints": ["No-derivatives"]
+  },
+  {
+    "client_id": "c006",
+    "risk_tolerance": 4,
+    "horizon_months": 48,
+    "goal": "Growth",
+    "liquidity_need": "Low",
+    "constraints": []
+  },
+  {
+    "client_id": "c007",
+    "risk_tolerance": 4,
+    "horizon_months": 60,
+    "goal": "Growth",
+    "liquidity_need": "Med",
+    "constraints": ["ESG-only"]
+  },
+  {
+    "client_id": "c008",
+    "risk_tolerance": 5,
+    "horizon_months": 72,
+    "goal": "Growth",
+    "liquidity_need": "Low",
+    "constraints": []
+  },
+  {
+    "client_id": "c009",
+    "risk_tolerance": 2,
+    "horizon_months": 9,
+    "goal": "Preservation",
+    "liquidity_need": "High",
+    "constraints": ["ESG-only"]
+  },
+  {
+    "client_id": "c010",
+    "risk_tolerance": 3,
+    "horizon_months": 24,
+    "goal": "Preservation",
+    "liquidity_need": "Med",
+    "constraints": ["No-derivatives"]
+  },
+  {
+    "client_id": "c011",
+    "risk_tolerance": 1,
+    "horizon_months": 3,
+    "goal": "Income",
+    "liquidity_need": "High",
+    "constraints": ["No-derivatives", "ESG-only"]
+  },
+  {
+    "client_id": "c012",
+    "risk_tolerance": 2,
+    "horizon_months": 36,
+    "goal": "Income",
+    "liquidity_need": "Low",
+    "constraints": []
+  },
+  {
+    "client_id": "c013",
+    "risk_tolerance": 3,
+    "horizon_months": 12,
+    "goal": "Growth",
+    "liquidity_need": "High",
+    "constraints": ["No-derivatives"]
+  },
+  {
+    "client_id": "c014",
+    "risk_tolerance": 4,
+    "horizon_months": 24,
+    "goal": "Income",
+    "liquidity_need": "Med",
+    "constraints": []
+  },
+  {
+    "client_id": "c015",
+    "risk_tolerance": 5,
+    "horizon_months": 36,
+    "goal": "Growth",
+    "liquidity_need": "Med",
+    "constraints": []
+  },
+  {
+    "client_id": "c016",
+    "risk_tolerance": 2,
+    "horizon_months": 6,
+    "goal": "Income",
+    "liquidity_need": "High",
+    "constraints": ["ESG-only", "No-derivatives"]
+  },
+  {
+    "client_id": "c017",
+    "risk_tolerance": 3,
+    "horizon_months": 84,
+    "goal": "Preservation",
+    "liquidity_need": "Low",
+    "constraints": ["ESG-only"]
+  },
+  {
+    "client_id": "c018",
+    "risk_tolerance": 4,
+    "horizon_months": 120,
+    "goal": "Growth",
+    "liquidity_need": "Low",
+    "constraints": ["No-derivatives"]
+  },
+  {
+    "client_id": "c019",
+    "risk_tolerance": 1,
+    "horizon_months": 12,
+    "goal": "Preservation",
+    "liquidity_need": "Med",
+    "constraints": ["ESG-only"]
+  },
+  {
+    "client_id": "c020",
+    "risk_tolerance": 5,
+    "horizon_months": 24,
+    "goal": "Growth",
+    "liquidity_need": "High",
+    "constraints": []
+  }
+]
